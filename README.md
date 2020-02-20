@@ -13,7 +13,7 @@ seaborn     = as data visualization too (Require import matplotlib to use this m
 
 numpy       = for matrix manipulation
 
-sklearn     = as KNN algorithm framework
+sklearn     = as Decision Tree algorithm framework
 
 jupyterlab  = as IDE
 
