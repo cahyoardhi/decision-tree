@@ -4,3 +4,4 @@ seaborn
 numpy
 sklearn
 jupyterlab
+graphviz
